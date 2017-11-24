@@ -1,0 +1,846 @@
+<!-- 
+************************************************************************************************************
+BEAT THE BLUES
+ http://www.prairielandherbs.com/events.htm#beattheblues ************************************************************************************************************
+-->
+
+
+<div class="section" id="beattheblues">
+	<div class="left">
+		<p><img src="./images/_classes/wildflowers.jpg" width="300" height="300" alt="Unleash the medicinal properties of wildflowers and natural herbs"></p>
+		<p class="para2"></p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Beat the Bugs!</h3>
+		<p><b>Saturday, June 17th, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Fight the winter blues with herbal remedies and stay happy even in the middle of January. <br />Taught by Lynn Parkey, <br />held at Prairieland Herbs.</p> 
+		<p>Per person <b>$10.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Beat the Blues^10.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/833768516790256/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+
+<!-- 
+************************************************************************************************************
+BEAT THE BUGS
+ http://www.prairielandherbs.com/events.htm#beatthebugs ************************************************************************************************************
+-->
+
+
+<div class="section" id="beatthebugs">
+	<div class="left">
+		<p><img src="./images/_classes/elderberries.jpg" width="300" height="300" alt="Elderberries have great medicinal properties"></p>
+		<p class="para2"></p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Beat the Bugs!</h3>
+		<p><b>Saturday, June 17th, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Learn about natural herbal home remedies to help fight colds, flu, and that dry cough that won't go away. Taught by Lynn Parkey, held at Prairieland Herbs.</p> 
+		<p>Per person <b>$10.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Beat the Bugs^10.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/461406487578134/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+
+<!--
+************************************************************************************************************
+SPINNING - BEYOND THE BASICS
+http://www.prairielandherbs.com/events.htm#advspinclass 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="advspinclass">
+	<div class="left">
+		<p><img src="./images/_classes/hairyspin.jpg" width="300" height="300" alt="Tail spinning on a Columbine Spinning Wheel"></p>
+		<p class="para2">Learn BEYOND the basics of spinning. This is a class for people who can spin singles and ply yarn with a spinning wheel, but want to expand their knowledge. </p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Spinning - Beyond the Basics</h3>
+		<p><b>Saturday, October 7th, 1:00 &ndash; 4:00 pm.</b></p>		
+		<p>This class will be designed based upon students' requests.</p>
+
+		<p>Student requests for this class are: learning how to spin different thicknesses outside your "comfort zone", how to spin yarns for specific projects/specific weights, and tips/practice on plying from a center pull ball. We will also be exploring chain plying. So we will be working on these things during this class. </p> 
+		<p>Per person <b>$70.00</b></p>
+
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Spinning BTB^70.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/126477001331160/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!--
+************************************************************************************************************
+MAKE HERBAL BITTERS
+http://www.prairielandherbs.com/events.htm#bittersclass 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="bittersclass">
+	<div class="left">
+		<p><img src="./images/_classes/bitters.jpg" width="300" height="300" alt="A range of cocktail bitters"></p>
+		<p class="para2">Bitters were originally created as "medicinal tonics" of herbs and spices preserved in a spirit. Today, the strongly flavored bitters are a staple in high end cocktails. </p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Make Herbal Bitters</h3>
+		<p><b>1. Tuesday, August 8th, 6:30 &ndash; 7:30 pm.</b></p>		
+		<p><b>2. Tuesday, August 22nd, 6:30 &ndash; 7:30 pm.</b></p>
+		<p>Join Heather, bartender and co-creator of Damn Fine Bitters in a two-part class to learn about bitters history, usage, creation, AND to make your own bitters!</p>
+
+		<p>In the first class, you will be given the tools to create your own blend of bitter herbs and spices, and begin your bitters infusion. Heather will help you decide on a flavor profile and what to add to achieve your desired bitters. After a two-week interruption to give the ingredients time to infuse fully, we will get back together and finish the process! You will leave class two with your very own bottle of self-made bitters!</p> 
+		<p>Per person <b>$40.00</b></p>
+
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Make Herbal Bitters^40.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/862266127261447/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+
+
+
+
+
+<!--
+************************************************************************************************************
+PRESERVING YOUR HERBAL HARVEST
+http://www.prairielandherbs.com/events.htm#harvestclass 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="harvestclass">
+	<div class="left">
+		<p><img src="./images/_classes/canned.jpg" width="300" height="300" alt="Foods preserved by canning"></p>
+		<p class="para2"></p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Preserving Your<br />Herbal Harvest</h3>
+		<p><b>Saturday, September 2nd, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Drying, tincturing, infusing and freezing will all be covered in this class. Bring what you've grown and show off a little! I'll demonstrate the best way to preserve and use your herbs later! Taught by Lynn Parkey, held at Prairieland Herbs.</p> 
+		<p>Per person <b>$10.00</b></p>
+
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Preserving Herbal Harvest^10.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1298838796865877/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+INCORPORATING MEDICINAL HERBS IN EVERYDAY COOKING
+ http://www.prairielandherbs.com/events.htm#medherbs ************************************************************************************************************
+-->
+
+
+<div class="section" id="medherbs">
+	<div class="left">
+		<p><img src="./images/_classes/herbs_in_still.jpg" width="300" height="300" alt="Herbs being cooked in a pot"></p>
+		<p class="para2"></p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Medicinal Herbs<br />in Everyday Cooking</h3>
+		<p><b>Saturday, July 1st, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Learn to make nurturing bone broth with immune boosting herbs, pesto for lung health, and no bake cookies for bedtime. Take some home with you! Class taught by Lynn Parkey, held at Prairieland Herbs</p> 
+		<p>Per person <b>$15.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Med. Herbs in Cooking^15.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1435168746553481/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!--
+************************************************************************************************************
+SPA BRUNCH - MAKE & TAKE SUGAR SCRUBS
+http://www.prairielandherbs.com/events.htm#spabrunch 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="spabrunch">
+	<div class="left">
+		<p><img src="./images/_classes/saltscrub03.jpg" width="300" height="300" alt="Prairieland Herbs Body Scrubs"></p>
+		<p class="para2">Prairieland Herbs body scrubs are a perennial favorite among our customers.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Spa Brunch<br />Make and Take<br />Sugar Scrubs</h3>
+		<p><b>Sunday 27th August, 10:00 &ndash; 11:30 am.</b></p>
+		<p>Spa Brunch with Coffee, Tea, and Cake. Gather your friends for a morning of fun. You will learn to make and take home two kinds of custom made aromatherapy body scrubs. Recipes, instruction, and all materials provided. A fun and easy class for everyone. Class fee is $25 for Winterset Art Center members and $30 for non-members. Contact Maggie Howe at 515-490-7801 or girlwithasword@yahoo.com to register.</p> 
+<!--	<p>Per person <b>$20.00</b></p> 
+
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Scrubs Class^20.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1914100682158651/"target="_blank">Facebook!</a></p>
+            </form>
+-->
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!--
+************************************************************************************************************
+BODY SCRUBS CLASS
+http://www.prairielandherbs.com/events.htm#scrubclass 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="scrubclass">
+	<div class="left">
+		<p><img src="./images/_classes/saltscrub03.jpg" width="300" height="300" alt="Prairieland Herbs Body Scrubs"></p>
+		<p class="para2">Prairieland Herbs body scrubs are a perennial favorite among our customers.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Body Scrubs</h3>
+		<p><b>Saturday, July 8th, 1:00 &ndash; 2:00 pm.</b></p>
+		<p>In this class, you will learn how to make your own luxurious scrubs, which exfoliate, invigorate, and moisturize all in one! You will take home two varieties of scrub, and you'll be able to customize your own recipe, and make the perfect scrub just for you!</p> 
+		<p>Per person <b>$20.00</b></p>
+
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Scrubs Class^20.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1914100682158651/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+SOAPMAKING WITH SUE!
+http://www.prairielandherbs.com/events.htm#soapclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="soapclass">
+	<div class="left">
+		<p><img src="./images/_classes/soap_dish.jpg" width="300" height="300" alt="Home Made Soaps"></p>
+		<p class="para2">The soaps that we sell in our shop are made by your instructor, Sue Denny.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Soapmaking With Sue</h3>
+		<p><b>Saturday, June 3rd, 1:00 &ndash; 3:30 pm.</b></p>
+		<p>Learn about the history, art, magic and science of soapmaking with Sue Denny. After the lye is mixed, she'll talk about soap while the lye cools. Then the magic happens! Combine oils and lye to make soap for your own personal use. Everything is provided - just come and enjoy the process. You will take home approx. 8 oz of soap you helped make. Class lasts 2 - 2 1/2 hours. 9 participants maximum, advance signup is required.</p> 
+		<p>Per person <b>$20.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Soap Class^20.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="images/addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/285011365273084/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+
+<!-- 
+************************************************************************************************************
+INCORPORATING MEDICINAL HERBS IN EVERYDAY COOKING
+ http://www.prairielandherbs.com/events.htm#medherbs ************************************************************************************************************
+-->
+
+
+<div class="section" id="medherbs">
+	<div class="left">
+		<p><img src="./images/_classes/herbs_in_still.jpg" width="300" height="300" alt="Herbs being cooked in a pot"></p>
+		<p class="para2"></p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Medicinal Herbs<br />in Everyday Cooking</h3>
+		<p><b>Saturday, July 1st, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Learn to make nurturing bone broth with immune boosting herbs, pesto for lung health, and no bake cookies for bedtime. Take some home with you! Class taught by Lynn Parkey, held at Prairieland Herbs</p> 
+		<p>Per person <b>$15.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Med. Herbs in Cooking^15.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1435168746553481/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+HERBAL ID WALK
+ http://www.prairielandherbs.com/events.htm#herbwalk ************************************************************************************************************
+-->
+
+
+<div class="section" id="herbwalk">
+	<div class="left">
+		<p><img src="./images/_classes/wildherbs.jpg" width="300" height="300" alt="Young girl harvesting herbs"></p>
+		<p class="para2">Ever wondered about the plants you see growing wild? Can you eat it? Is it medicinal, or poisonous? Lynn will help satisfy your curiosity.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Herbal ID Walk</h3>
+		<p><b>Saturday, June 17th, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Let's walk around the farm and see what we see! As we ID each herb, I'll tell you a little of the medicinal history and how it's been used. Taught by Lynn Parkey, class held at Prarieland Herbs.</p> 
+		<p>Per person <b>$10.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Herbal ID Walk^10.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/891258967643988/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+KIDS AND HERBS
+ http://www.prairielandherbs.com/events.htm#herbkids ************************************************************************************************************
+-->
+
+
+<div class="section" id="herbkids">
+	<div class="left">
+		<p><img src="./images/_classes/herbkid.jpg" width="300" height="300" alt="Young girl harvesting herbs"></p>
+		<p class="para2">Children are naturally curious about their surroundings. Help cultivate this curiosity, and enable it to grow into a true appreciation for the environment.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Kids and Herbs</h3>
+		<p><b>Saturday, May 20th, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>Bring your little ones and have an interactive learning experience! Everyone will learn which her to use if you fall down in gravel, how to make an herbal band-aid, and which herb makes a tasty snack! If we have a nice day, bring a blanket to sit on and we will just walk around outside and discover. $10 for adults, kids free. Taught by Lynn Parkey, held at Prarieland Herbs. 
+</p> 
+		<p>Per adult <b>$10.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Kids and Herbs^10.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/265887003834908/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+HOT POT DYE CLASS
+ http://www.prairielandherbs.com/events.htm#hotpotclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="hotpotclass">
+	<div class="left">
+		<p><img src="./images/_classes/hot_pot.jpg" width="300" height="300" alt="Naturally dyed yarns"></p>
+		<p class="para2">Naturally dyed yarns.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Natural Dyes -<br />Hot Pot Natural Dyeing</h3>
+		<p><b>Saturday, May 13th, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>During this hands-on class, we will dye using a rainbow of natural dyes. We will mordant our fibers, create three or four dyepots, and dye cotton fabric, silk, and natural fiber yarn. All materials supplied; if you’d like to dye extra fabric or scarves during the class, plenty will be available for a mimimal extra fee. HINT: this is a perfect time to make scarves for gifts or dye enough fabric for a truly unique sewing project.</p> 
+		<p>Per person <b>$50.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Hot Pot Dye Class^50.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/410884772609498/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+KITCHEN DYE CLASS
+http://www.prairielandherbs.com/events.htm#kitchendyeclass 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="kitchendyeclass">
+	<div class="left">
+		<p><img src="./images/_classes/kitchendyes.jpg" width="300" height="300" alt="Natural Dyes"></p>
+		<p class="para2">We continue our series on natural dyeing with this indoor, cold weather, class. Our foraging for this session will take us no further that our pantry, or perhaps the supermarket!</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Natural Dyes<br />in the Kitchen</h3>
+		<p><b>Saturday, December 10th, 10:00 &ndash; 12:00 pm.</b></p>
+		<p>During this hands-on class, we will dye using easy to find dyes that we can find in our kitchen cupboards and grocery stores. We will mordant our fibers, create three or four dyepots, and dye cotton fabric, silk, and natural fiber yarn. All materials supplied; if you’d like to dye extra fabric or scarves during the class, plenty will be available for a mimimal extra fee. <br />HINT: this is a perfect time to make scarves for gifts or dye enough fabric for a truly unique sewing project.</p> 
+		<p>Per person <b>$45.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF==SF=^Kitchen Dye Class^45.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1121020844661651/">Facebook!</a></p>
+            </form>
+
+<!-- 
+************************************************************************************************************
+NATURAL DYE CLASS
+http://www.prairielandherbs.com/events.htm#dyeclass 
+************************************************************************************************************
+-->
+
+
+<div class="section" id="dyeclass">
+	<div class="left">
+		<p><img src="./images/_classes/naturaldyes01.jpg" width="300" height="300" alt="Natural Dyes"></p>
+		<p class="para2">Let's get wild and dye. This will be the first in a series of natural dye workshops, designed to explore the natural dyes available to us during different times of the year. The ditches and forests are exploding with color possibilities right now, so let's play with them! </p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Wildcrafted Natural Dyes</h3>
+		<p><b>Saturday, September 10th, 1:00 &ndash; 3:00 pm.</b></p>
+		<p>In this hands-on class, you'll learn to wildcraft common local dye plants available at this time of year. We will mordant our fibers, create three dyepots, and dye cotton fabric, silk, and natural fiber yarn. We will see what plants are available the morning of our class, but at the moment I'm guessing we will use goldenrod, black walnut, sumac..or maybe mullein or asters.... But time will tell! Wear clothes that you don't mind getting dirty/stained. All materials will be provided. </p> 
+		<p>Per person <b>$45.00</b></p>
+
+			<form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+			<p><input type=hidden name=nodash2 value=" ">
+				<input type=hidden name="item2" value="s-2964^=SF==TF=Class^Natural Dye Class^45.00^op2">Number of People: 
+				<input name=op22 size=2 value="1">
+			</p>
+				<p><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/639563902891181/">Facebook!</a></p>
+				</form>
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+<!--
+************************************************************************************************************     DROP SPINDLE CLASS
+http://www.prairielandherbs.com/events.htm#dropspindleclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="dropspindleclass">
+	<div class="left">
+		<p><img src="./images/_classes/dropspindle.png" width="300" height="300" alt="Drop Spindling"></p>
+		<p class="para2">Used for making yarn since ancient times, the drop spindle is still popular today among crafters. Inexpensive and easily portable, you can spin your own yarn almost anywhere. 
+</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Learn to Spin <br />with a Drop Spindle</h3>
+		<p><b>Saturday, October 1st. 1:00 &ndash; 3:00 pm.</b></p>
+		<p>In this class we will talk about wool, its various preparations, and how to buy it. You will learn how to spin roving into yarn using a drop spindle. We will provide a drop spindle, which you get to keep, and several kinds of roving. Come with a spirit of adventure and a sense of humor; this is a tricky skill and it takes time, but I know you can do it!</p> 
+		<p>Per person <b>$45.00</b>(all supplies included).</p>
+
+			<form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+			<p><input type=hidden name=nodash2 value=" ">
+				<input type=hidden name="item2" value="s-2964^=SF==TF=Class^Drop Spindle Class^45.00^op2">Number of People: 
+				<input name=op22 size=2 value="1">
+			</p>
+				<p><input type=image name=add22 src="images/addtocart.gif" width=100 height=100 alt="Add to Cart"></p>
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/228112227585658/">Facebook!</a></p>
+				</form>
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+<!--
+************************************************************************************************************ 
+WHEEL SPINNING CLASS
+http://www.prairielandherbs.com/events.htm#spinclass ************************************************************************************************************ 
+-->
+
+
+<div class="section" id="spinclass">
+	<div class="left">
+		<p><img src="./images/_classes/wheelspinning.jpg" width="300" height="300" alt="Wheel Spinning"></p>
+		<p class="para2">Making yarn on a spinning wheel is a relaxing and rewarding hobby.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Learn to Spin <br />on a Spinning Wheel</h3>
+		<p><b>Sat., October 15th. 1:00 &ndash; 4:00 pm.</b></p>
+		<p>Learn to spin your own wool yarn on a spinning wheel. If you have a working spinning wheel you may bring it along, otherwise we will provide wheels to use during class. Students may borrow their learning wheel for one week, but they MUST be returned by the following Saturday (extended rental can be arranged). Some roving will also be provided, with the option to purchase more if you want.</p> 
+		<p>Class size is limited, so sign up early!</p> 
+		<p>Per person <b>$50.00</b>(including supplies).</p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^Class^Wheel Spinning Class^50.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/301176743583338/">Facebook!</a></p>
+				</form>
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!--
+************************************************************************************************************
+BATH SALTS CLASS
+ http://www.prairielandherbs.com/events.htm#saltsclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="saltsclass">
+	<div class="left">
+		<p><img src="./images/_classes/bathsalt02.jpg" width="300" height="300" alt="Prairieland Herbs bath salts"></p>
+		<p class="para2">Bath salts are wonderful to help you relax after a hard day. They also make delightful holiday gifts.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Bath Salts Class</h3>
+		<p><b>Sat., November 5th. 1:00 &ndash; 2:00 pm.</b></p>
+		<p>Learn to make and take home two kinds of custom made bath salts. Recipes, instruction, and all materials will be provided. A fun and easy class - bring a friend!</p> 
+		<p>Class size is limited, so sign up early!</p> 
+		<p>Per person <b>$20.00</b>(including supplies).</p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^Class^Bath Salts Class^20.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1775413209337586/">Facebook!</a></p>
+				</form>
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+<!-- 
+************************************************************************************************************
+HERBAL COLD REMEDIES CLASS
+ http://www.prairielandherbs.com/events.htm#coldherbsclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="coldherbsclass">
+	<div class="left">
+		<p><img src="./images/_classes/coldherbs.jpg" width="300" height="300" alt="Herbal Remedies for Colds and Flu"></p>
+		<p class="para2">&nbsp;</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Herbs for Cold and Flu</h3>
+		<p><b>Saturday, Feb. 11th, 1:00 &ndash; 2:30 pm.</b></p>
+		<p>Learn which herbs can act as cold and flu medicine without all those nasty side effects. Class taught by Lynn Parkey, and held at Prarieland Herbs.</p> 
+		<p>Per person <b>$15.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Cold Herbs Class^15.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/390714237931159/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+<!-- 
+************************************************************************************************************
+KNITTING CLASS
+ http://www.prairielandherbs.com/events.htm#knitclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="knitclass">
+	<div class="left">
+		<p><img src="./images/_classes/knit.jpg" width="300" height="300" alt="Image of knitting"></p>
+		<p class="para2">Learn the knitting basics from local artisan Maggie Howe of <a href="https://www.facebook.com/Girl-With-A-Sword-Productions-191291190883381/" target="_blank">Girl With A Sword Productions!</a> In this class you can make a washcloth or scarf (your choice). We will talk about knitting lingo - what's a skein? What are the differences between DPN's, circular needles and straight needles? Learn how to buy yarn, and the basics of reading a knitting pattern. We will learn to cast on, do the basic knit stitch, and cast off. </p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Learn to Knit Class</h3>
+		<p><b>Saturday, Feb. 25th, 3:00 &ndash; 4:30 pm.</b></p>
+		<p>What to bring: a sense humor, positive attitude, a set of straight needles, and some yarn. If you'd like to knit a washcloth, please bring a ball of cotton yarn and a set of size 6 bamboo straight needles. If you'd like to knit a scarf, please bring a ball of chunky or bulky yarn and size 13 bamboo straight knitting needles. Intimidated by buying the yarn and needles? Just contact Maggie and she will take care of it for you, or talk you through it.</p> 
+		<p>Per person <b>$20.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Knitting Class^20.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/150043388830051/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+RUST DYEING
+ http://www.prairielandherbs.com/events.htm#rustdyeclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="rustdyeclass">
+	<div class="left">
+		<p><img src="./images/_classes/rustdye.jpg" width="300" height="300" alt="Detail of Rust-Dyed Silk Scarf"></p>
+		<p class="para2">Detail of a rust-dyed silk scarf showing the range of colour and pattern that can be achieved with this simple technique.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Rust Dyeing</h3>
+		<p><b>Saturday, March 4th, 1:00 &ndash; 2:30 pm.</b></p>
+		<p>Learn to dye silk and cotton fabrics with rust. Make beautiful patterns, textures, and impressions with this simple but fascinating technique. All materials provided, but if you have a rusty jar of nails or similar items that you'd like to use or share, please feel free to bring them! You will make and take hom your own fat quarter of cotton fabric and a silk scarf.</p> 
+		<p>Per person <b>$30.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Rust Dye Class^30.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/1089182231207552/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+SOAPMAKING WITH SUE!
+http://www.prairielandherbs.com/events.htm#soapclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="soapclass">
+	<div class="left">
+		<p><img src="./images/_classes/soap_dish.jpg" width="300" height="300" alt="Home Made Soaps"></p>
+		<p class="para2">The soaps that we sell in our shop are made by your instructor, Sue Denny.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Soapmaking With Sue</h3>
+		<p><b>Saturday, 28th October, 1:00 &ndash; 4:00 pm.</b></p>
+		<p>Learn about the history, art, magic and science of soapmaking with Sue Denny. After the lye is mixed, she'll talk about soap while the lye cools. Then the magic happens! Combine oils and lye to make soap for your own personal use. Everything is provided - just come and enjoy the process. You will take home approx. 8 oz of soap you helped make. 9 participants maximum, advance signup is required.</p> 
+		<p>Per person <b>$20.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Soap Class^20.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/285011365273084/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+EASTER EGG DYEING CLASS
+http://www.prairielandherbs.com/events.htm#eggdyeclass ************************************************************************************************************
+-->
+
+<div class="section" id="eggdyeclass">
+	<div class="left">
+		<p><img src="./images/_classes/egg_dyeing.jpg" width="300" height="300" alt="Naturally Dyed Easter Eggs"></p>
+		<p class="para2">Naturally Dyed Easter Eggs.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Natural Easter Egg Dyeing</h3>
+		<p><b>Saturday, March 25th, 1:00 &ndash; 2:30 pm.</b></p>
+		<p>Learn how to dye eggs using eco-friendly natural dyes. We will use several different dyes, and a few embellshing techniques to create a rainbow of beautifully colored all-natural Easter eggs.<br />
+			Eggs and all materials will be provided, but please wear clothing that you won't mind getting messy.</p> 
+		<p>Per person <b>$25.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Egg Dye Class^15.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/946830132084699/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+<!-- 
+************************************************************************************************************
+INDIGO DYEING CLASS
+ http://www.prairielandherbs.com/events.htm#indigoclass ************************************************************************************************************
+-->
+
+
+<div class="section" id="indigoclass">
+	<div class="left">
+		<p><img src="./images/_classes/indigo.jpg" width="300" height="300" alt="Indigo Dyeing at Prairieland Herbs"></p>
+		<p class="para2">Indigo is a natural dye that produces a beautiful blue color. Historically, this was highly valued, as blue dyes are rare. It is the blue associated with blue jeans.</p>
+	</div><!-- end left -->	
+	<div class="right">
+		<h3>Indigo Magic!</h3>
+		<p><b>Saturday, October 21st, 2:00 &ndash; 4:00 pm.</b></p>
+		<p>This class is not a formal lecture, but is all about PLAYING. We will have an indigo vat ready to use. You bring items to dye - cotton or other natural fiber tshirts, fabric, or clothing items, yarn, fiber, buttons, basketry materials - anything you like, as much as you like. We will provide gloves, a space to get messy, and a variety of items to use if you want to scrunch, twist, tie or bind your fabric to make nifty designs. Wear clothes that can get dyed/messy. </p> 
+		<p>Per person <b>$30.00</b></p>
+
+            <form action="http://www.cartserver.com/sc/cart.cgi" method="post">
+              <p align="center"> 
+                <input type=hidden name=nodash value=" ">
+                <input type=hidden name="item" value="s-2964^=TF= =SF=^Indigo Class^30.00^op2">
+                Number of people: 
+                <input name=op2 size=2 value="1">
+              </p>
+              <p align="center"> 
+                <input type=image border=0 name=add2 src="../addtocart.gif" width=100 height=100>
+              </p>
+
+				<p>Keep up to date with this event on <a href="https://www.facebook.com/events/310017112806218/"target="_blank">Facebook!</a></p>
+            </form>
+
+	</div><!-- end right -->	
+</div><!-- end section -->
+
+
+
+	<h3>Holiday Opening Hours</h3>
+	<p class="slim">We will be closed on Christmas Eve, December 24th, and will be open again for business on Thursday, 29th December, and will be closed on New Year's Eve, Saturday, 31st December.</p><br />
+
+<!-- Link to specific line:
+
+In HTML:   <div class="section" id="armknitclass">
+link:      http://prairielandherbs.com/events.htm#armknitclass
+-->
