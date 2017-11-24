@@ -1,0 +1,24 @@
+/*
+	*************************
+	STYLESHEET FOR SCENTGUIDE
+	*************************
+*/
+
+.eo {
+	color: #339966;
+}
+
+.fo {
+	color: #9999CC;
+}
+
+.eo .label {
+	color: #006600;
+	font-weight: bold;
+}
+
+.fo .label {
+	color: #8080C0;
+	font-weight: bold;
+}
+
