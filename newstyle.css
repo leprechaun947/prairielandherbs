@@ -171,7 +171,9 @@ td .latin {
 
 #dates {
 	width: 350px;
-	margin-left: 190px;
+	/* margin-left: 190px; */
+    margin: 0 auto;
+	text-align: center;
 	color: #8080C0;
 }
 
